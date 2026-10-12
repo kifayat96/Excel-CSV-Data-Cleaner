@@ -10,6 +10,9 @@ A simple and user-friendly Windows desktop application built with Python to clea
 - Save cleaned data as a new file
 - View the number of rows removed
 - No Python installation required
+- ## Software Screenshot
+
+![Excel/CSV Data Cleaner Screenshot](screenshot.png)
 
 ## Technologies Used
 
